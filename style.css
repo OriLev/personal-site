@@ -2,8 +2,18 @@ body {
 	background-color: blue;
 }
 
-div {
+h1 {
 	background-color: red;
 	color: white;
 	height: 100%;
+}
+
+p {
+	background-color: white;
+	padding: 10px;
+}
+
+span {
+	height:70%;
+	background-color: yellow;
 }
